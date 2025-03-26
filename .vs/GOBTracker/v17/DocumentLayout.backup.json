@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\models\\createplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\models\\createplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\gobtracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\gobtracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|c:\\users\\nizeh\\source\\repos\\gobtracker\\gobtracker\\data\\gobtrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF720D-D8FC-4F45-AE14-47776A9CCDA0}|GOBTracker\\GOBTracker.csproj|solutionrelative:gobtracker\\data\\gobtrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Game.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:12:44.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stat.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Stat.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\Stat.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Stat.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\Stat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:13:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Player.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:12:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\Team.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:11:24.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "GOBTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\appsettings.json",
+              "RelativeToolTip": "GOBTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T18:24:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\TeamDTO.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\TeamDTO.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\TeamDTO.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\TeamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:32:55.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GOBTracker\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:22:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "GOBTracker\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:21:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "GOBTracker\\Controllers\\SchedulesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:23:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "GOBTracker\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:23:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "GOBTracker\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:20:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\CreateTeamDTO.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\CreateTeamDTO.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\CreateTeamDTO.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\CreateTeamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:54:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreatePlayerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\CreatePlayerDTO.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Models\\CreatePlayerDTO.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Models\\CreatePlayerDTO.cs",
+              "RelativeToolTip": "GOBTracker\\Models\\CreatePlayerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:06:13.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GOBTrackerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Data\\GOBTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Data\\GOBTrackerDbContext.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Data\\GOBTrackerDbContext.cs",
+              "RelativeToolTip": "GOBTracker\\Data\\GOBTrackerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:16:08.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GOBTracker.http",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\GOBTracker.http",
+              "RelativeDocumentMoniker": "GOBTracker\\GOBTracker.http",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\GOBTracker.http",
+              "RelativeToolTip": "GOBTracker\\GOBTracker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-24T19:24:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Program.cs",
+              "RelativeDocumentMoniker": "GOBTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\Program.cs",
+              "RelativeToolTip": "GOBTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:24:08.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GOBTracker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nizeh\\source\\repos\\GOBTracker\\GOBTracker\\appsettings.Development.json",
+              "RelativeToolTip": "GOBTracker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T19:31:04.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

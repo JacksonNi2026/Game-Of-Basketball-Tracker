@@ -1,0 +1,6 @@
+@GOBTracker_HostAddress = http://localhost:5122
+
+GET {{GOBTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
